@@ -1,9 +1,9 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  output: 'standalone',
-  reactStrictMode: true,
-  swcMinify: true,
-}
+// const nextConfig = {
+//   output: 'standalone',
+//   reactStrictMode: true,
+//   swcMinify: true,
+// }
 
 // module.exports = nextConfig
 
@@ -20,5 +20,8 @@ module.exports = {
     }
     return config;
   },
+  output: 'standalone',
+  reactStrictMode: true,
+  swcMinify: true,
 };
 
