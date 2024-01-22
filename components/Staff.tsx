@@ -21,7 +21,7 @@ export function Staff() {
         <div className={styles.image__container}>
           <Image
           className={styles.staff__image}
-          src="/assets/img/hasegawa__yoshiko_2.jpg"
+          src="/assets/img/hasegawa__yoshiko_2.JPG"
           alt="hasegawa_yoshiko"
           width={width}
           height={width}
@@ -55,7 +55,7 @@ export function Staff() {
         }
         />
         <Image
-        src="/assets/img/hasegawa__yoshiko_2.jpg"
+        src="/assets/img/hasegawa__yoshiko_2.JPG"
         alt="logo"
         width={width}
         height={width}
@@ -66,7 +66,7 @@ export function Staff() {
         }
         />
         <Image
-        src="/assets/img/hasegawa__yoshiko_3.jpg"
+        src="/assets/img/hasegawa__yoshiko_3.JPG"
         alt="logo"
         width={width}
         height={width}
